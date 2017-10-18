@@ -38,8 +38,7 @@
         "rdj": "https://i.imgur.com/Kwwhhei.png",
         "subscriber": null,
         "silversubscriber": null
-    },
     "emotes": {
-		"peruttu": "https://rawgit.com/Myrkytys/PoisonSong/master/custom-emotes/6YToyEF.png",
+    	"peruttu": "https://cdn.rawgit.com/Myrkytys/PoisonSong/200b03f0/custom-emotes/6YToyEF.png",
     }
 }
