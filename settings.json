@@ -27,7 +27,7 @@
         "user": null
     },
     "images": {
-        "background": null,
+        "background": "https://myrkytys.github.io/icons/background.png",
         "playback": null,
         "admin": null,
         "ambassador": null,
