@@ -2,7 +2,7 @@
     "room": "PoisonSong",
     "author": "Myrkky",
     "icon": null,
-    "css": "https://rawgit.com/Myrkytys/PoisonSong/master/main.css",
+    "css": "https://myrkytys.github.io/main.css",
     "rules": {
         "allowAutorespond": true,
         "allowAutowoot": true,
