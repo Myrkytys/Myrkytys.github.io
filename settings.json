@@ -1,8 +1,8 @@
 {
-    "room": "Tyomaa",
+    "room": "Työmaa",
     "author": "Myrkky",
     "icon": null,
-    "css": "https://myrkytys.github.io/main.css",
+    "css": null,
     "rules": {
         "allowAutorespond": true,
         "allowAutowoot": true,
@@ -40,6 +40,6 @@
         "silversubscriber": null
     },
     "emotes": {
-    	"TMPika": "https://i.imgur.com/BltNqFN.png"
+    	"emote_name": null
     }
 }
