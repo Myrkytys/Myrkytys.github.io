@@ -1,5 +1,5 @@
 {
-    "room": "PoisonSong",
+    "room": "Tyomaa",
     "author": "Myrkky",
     "icon": null,
     "css": "https://myrkytys.github.io/main.css",
@@ -16,18 +16,18 @@
     "ccc": {
         "admin": null,
         "ambassador": null,
-        "host": "#FE2664",
-        "cohost": "#FE2664",
-        "manager": "#089E27",
-        "bouncer": "#0869F0",
-        "rdj": "#10D7D7",
+        "host": "#FFCC00",
+        "cohost": "#FFCC00",
+        "manager": "#33CC33",
+        "bouncer": "#ffff66",
+        "rdj": "#00B3B3",
         "subscriber": null,
         "silversubscriber": null,
         "friend": null,
         "user": null
     },
     "images": {
-        "background": "https://myrkytys.github.io/icons/background.png",
+        "background": null,
         "playback": null,
         "admin": null,
         "ambassador": null,
