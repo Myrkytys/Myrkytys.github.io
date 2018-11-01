@@ -1,5 +1,5 @@
 {
-    "room": "Työmaa",
+    "room": "Tyomaa",
     "author": "Myrkky",
     "icon": null,
     "css": null,
@@ -40,11 +40,6 @@
         "silversubscriber": null
     },
     "emotes": {
-    	"tyomaapika": "https://i.imgur.com/skwVMzf.png",
-        "custom_test": "https://cdn.radiant.dj/rcs/icons/test_custom.png",
-        "reav": "http://i.imgur.com/J7J8nPt.gif",
-        "otakuN": "http://i.imgur.com/axZcXdQ.png",
-        "havii": "http://i.imgur.com/9wVLTYk.jpg",
-        "tyomaapika": "https://i.imgur.com/skwVMzf.png"
+    	"tyomaa": "https://i.imgur.com/skwVMzf.png"
     }
 }
