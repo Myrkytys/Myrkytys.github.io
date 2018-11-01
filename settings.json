@@ -2,7 +2,7 @@
     "room": "Työmaa",
     "author": "Myrkky",
     "icon": null,
-    "css": "http://Myrkytys.github.io/main.css",
+    "css": "https://dl.dropboxusercontent.com/s/dxgd88vvz7pwz3l/plugcustomcsstheme2.css",
     "rules": {
         "allowAutorespond": true,
         "allowAutowoot": true,
