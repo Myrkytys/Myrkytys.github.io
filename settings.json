@@ -2,7 +2,7 @@
     "room": "Työmaa",
     "author": "Myrkky",
     "icon": null,
-    "css": "https://dl.dropboxusercontent.com/s/dxgd88vvz7pwz3l/plugcustomcsstheme2.css",
+    "css": null,
     "rules": {
         "allowAutorespond": true,
         "allowAutowoot": true,
@@ -40,6 +40,6 @@
         "silversubscriber": null
     },
     "emotes": {
-    	"emote_name": null
+    	"tmpika": "https://i.imgur.com/skwVMzf.png"
     }
 }
