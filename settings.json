@@ -27,7 +27,7 @@
         "user": null
     },
     "images": {
-        "background": https://myrkytys.github.io/background/halloween.png,
+        "background": "https://myrkytys.github.io/backgrounds/halloween.png",
         "playback": null,
         "admin": null,
         "ambassador": null,
